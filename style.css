@@ -1,0 +1,21 @@
+body {background-color: #63ffc3}
+h1 {color: #ff7a63; font-size: 50;text-align: center;} 
+p {color: black; font-size: 20;text-align: left;}
+img {width: 800px;
+	 height:500px;
+	 margin-left: auto;
+	 margin-right:auto;
+	 display: block;}
+h2 {color: #ff7a63; font-size:40;text-align: left;}
+p .special {border:width: auto;height: auto; border-style: solid;}
+p .special2 {border-style: solid;display: block;width: 650px;height: 90px;}
+p .special3 {border-style: solid;display: block;width: 900px;height: 70px;}
+p .special4 {border-style: solid;display:block;width: 1000px;height: 100px;}
+  .dog {position: relative;color: white;font-size: 30}
+  .dog1{position: absolute;top: 20;left: 360}
+  .dog2{position: absolute;bottom: 20;right: 360}
+a:link {color: red;}
+a:visited {color: purple;}
+a:hover {color: yellow;}
+a:active {color: green;} 
+a {font-size: 20;}
